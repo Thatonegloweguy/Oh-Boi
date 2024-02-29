@@ -1,0 +1,48 @@
+/*The CSS File of Oh Boi!*/
+
+/*Header CSS Style*/
+.header {
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 33px;
+  border-radius: 5px;
+}
+
+p.fontAuthor {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+}
+p.font {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+hr.size {
+  height: 1px;
+  background-color: gray;
+}
+
+hr.sizeblack {
+  height: 1px;
+  background-color: rgb(0, 0, 0);
+  box-shadow: 2px 2px 5px;
+}
+
+strong.right {
+  text-align: right;
+}
+
+footer.foot {
+  background-color: gray;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  border-radius: 10px;
+  box-shadow: 2px 2px 30px black;
+  text-align: justify;
+  text-decoration: none;
+  image-rendering: pixelated;
+}
